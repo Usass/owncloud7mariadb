@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# start by chmod 755 1.sh after that run the following command ./1.sh
+# start by chmod 755 1.sh after you have given the proper permission then that run the following command ./1.sh
+
+# Make sure you are in the same directory as ./1.sh (Enjoy)
 
 chmod 755 2.sh&&
 
@@ -22,8 +24,8 @@ chmod 755 13.sh&&
 
 chmod 755 14.sh&&
 
+chmod 755 15.sh&&
 
-
-./2.sh&& ./3.sh&& ./4.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./8.sh&& ./12.sh&& ./13.sh&& ./14.sh&&
+./2.sh&& ./3.sh&& ./4.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./8.sh&& ./12.sh&& ./13.sh&& ./14.sh&& ./15.sh&& ./5.sh&& ./6.sh&& ./7.sh&&
 
 exit
