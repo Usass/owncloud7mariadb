@@ -1,7 +1,5 @@
 #!/bin/bash
 
-sudo apt-get install gnome-weather gnome-maps gnome-photos gnome-music <<**
-y
-**&&
+sudo add-apt-repository ppa:gnome3-team/gnome3-staging -y&&
 
 exit

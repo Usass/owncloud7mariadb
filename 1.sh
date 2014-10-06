@@ -36,11 +36,10 @@ chmod 755 19.sh&&
 
 chmod 755 20.sh&&
 
-./2.sh&& ./3.sh&& ./4.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./8.sh&& ./12.sh&& ./13.sh&& ./14.sh&& ./15.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./18.sh&& ./19.sh&& ./20.sh&&
+chmod 755 21.sh&&
 
-cd ..&&
+./2.sh&& ./3.sh&& ./4.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./8.sh&& ./12.sh&& ./13.sh&& ./14.sh&& ./15.sh&& ./5.sh&& ./6.sh&& ./7.sh&& ./18.sh&& ./19.sh&& ./20.sh&& ./21.sh&&
 
-sudo rm -R owncloud7mariadb&&
 
 sudo reboot&&
 
